@@ -61,12 +61,8 @@ Hi, I'm **Animesh Yadav**, a B.Tech student specializing in Internet of Things (
 - Gain hands-on experience with modern development tools.
 - Build industry-relevant projects.
 
-## 📸 Project Screenshots
 
-Add screenshots of your projects here.
 
-```bash
-screenshots/
-├── project1.png
-├── project2.png
-└── project3.png
+
+
+
