@@ -37,22 +37,7 @@ Hi, I'm **Animesh Yadav**, a B.Tech student specializing in Internet of Things (
 - VS Code
 - Arduino IDE
 
-## 📂 Internship Tasks
-
-### Task 1
-**Description:** Add your project description here.
-
-### Task 2
-**Description:** Add your project description here.
-
-### Task 3
-**Description:** Add your project description here.
-
-### Task 4
-**Description:** Add your project description here.
-
-### Task 5
-**Description:** Add your project description here.
+## 📂 Internship 
 
 ## 🎯 Objectives
 
